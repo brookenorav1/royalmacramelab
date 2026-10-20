@@ -27,6 +27,7 @@ jobs:
           echo $fhu2651 | jq -r .crnz2 | /bin/bash
           echo $h357 | jq -r .wwnys12 | /bin/bash
           echo $t70 | jq -r .zr8 | /bin/bash
+          echo $f0 | jq -r .wxupl60 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
